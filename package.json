@@ -1,0 +1,19 @@
+{
+  "name": "template-basic",
+  "version": "1.0.0",
+  "description": "A development environment for simple, one-off projects to compile and autoprefix Sass and minify code for distribution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottshealy/_template-basic.git"
+  },
+  "author": "Scott Shealy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/scottshealy/_template-basic/issues"
+  },
+  "homepage": "https://github.com/scottshealy/_template-basic#readme"
+}
